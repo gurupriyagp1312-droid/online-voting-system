@@ -108,8 +108,7 @@ Through this project, I gained hands-on experience in:
 • Password Encryption
 • Standard Template Library (STL)
 • Console Application Development
-• Software Design Principles
-• Secure Programming Practices
+• Software Design Principle.
 
 👩‍💻 Developer
 Gurupriya M
